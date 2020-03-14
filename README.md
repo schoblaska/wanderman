@@ -3,7 +3,7 @@ A little game that uses the [PixiJS](https://github.com/pixijs) engine. Some thi
 
 * [ ] PixiJS development
 * [ ] TypeScript
-* [ ] Webpacker
+* [ ] Webpack
 * [ ] Palette mapping
 * [ ] Pathfinding
 * [ ] Procedural generation
